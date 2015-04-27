@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.moonlitscript.randomstring" name="Random String" version="1.0" provider-name="moonlitscript" class="randomstring.Handler">
+<description><![CDATA[ Random String allows you to say a little something different every time your page loads. With a list of phrases managed from the admin, you can unload varying taglines, witty one-liners, or random quotes on your eager visitors who will surely be amazed at your great and varied literary prowess. ]]></description>
+<requiresVersion match="greaterOrEqual">1.2.2</requiresVersion>
+  <listens>
+	<event name="getPods" type="synch" priority="5" />
+	<event name="getPodsList" type="synch" priority="5" />
+	<event name="settingsNav" type="synch" priority="5" />
+  	<event name="showRandomStringSettings" type="synch" priority="5" />
+  </listens>
+</plugin>

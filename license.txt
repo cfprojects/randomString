@@ -1,0 +1,39 @@
+RandomString is configured through the Mango Blog admin,
+and can be called as either a pod or just a custom tag with: <mangox:randomString />
+
+License Information for RandomString Plugin for Mango Blog:
+
+Copyright 2009 by Matt Hill, http://www.moonlitscript.com
+
+This work is licensed under the Creative Commons 
+Attribution-Noncommercial-Share Alike 3.0 Unported license found here:
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+In short, You are free to:
+    * Share — to copy, distribute and transmit the work
+    
+    * Remix — to adapt the work
+
+Under the following conditions:
+    * Attribution — An HTML comment has been embedded in this plugin. 
+      Please either leave that comment in place, or provide a link back to my site,
+      http://www.moonlitscript.com.
+    
+    * Noncommercial — You may not use this work for commercial purposes.
+    
+    * Share Alike — If you alter, transform, or build upon this work, 
+      you may distribute the resulting work only under the same or similar license to this one.
+
+With the understanding that:
+    * Waiver — Any of the above conditions can be waived if you get permission from me, Matt Hill.
+
+    * Other Rights — In no way are any of the following rights affected by the license:
+          o Your fair dealing or fair use rights;
+          o The author's moral rights;
+          o Rights other persons may have either in the work itself or in how the work is used, 
+            such as publicity or privacy rights.
+    
+    * Notice — For any reuse or distribution, you must make clear to others the license terms of this work. 
+      The best way to do this is with a link back to the license.
+      http://creativecommons.org/licenses/by-nc-sa/3.0/
